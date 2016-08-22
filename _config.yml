@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.8061556366737932
 name: Martin Graham Cloud Coaching
 navigation:
-  - name: Martin Graham on linkedin
-    url: martingraham.com
-    type: external
   - name: Martin Graham on Facebook
     url: 'https://www.facebook.com/martingrahamcloudcoachingltd/?ref=bookmarks'
     type: external
