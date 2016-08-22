@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T18:06:32.918Z'
+datePublished: '2016-08-22T18:09:37.524Z'
 sourcePath: >-
   _posts/2016-08-22-knowing-the-core-quality-i-am-using-and-its-counterbalancing.md
 author: []
 via: {}
-dateModified: '2016-08-22T18:06:32.451Z'
+dateModified: '2016-08-22T18:09:36.945Z'
 title: ''
 publisher:
   name: Martin Graham Cloud Coaching
@@ -12,10 +12,8 @@ description: >-
   Knowing the core quality I am using and its counterbalancing challenge,
   combining these two together help me to avoid reacting badly to 'my allergy'
   or falling into the trap of my 'excess'.
-starred: true
-inFeed: true
 hasPage: true
-inNav: false
+starred: true
 url: knowing-the-core-quality-i-am-using-and-its-counterbalancing/index.html
 _context: 'http://schema.org'
 _type: Article
