@@ -28,6 +28,11 @@ navigation:
   - name: Martin Graham Cloud Coaching Introduction
     id: 7cad2223-a566-4a1b-ab5f-515ed5e7cf20
     type: content
+  - name: >-
+      Introductory offer to experience coaching as a learning and management
+      tool.
+    id: b92cb68c-9f35-4aa2-addb-0778aeb0d2bc
+    type: content
 favicon: null
 title: '''A key actor in our global integration process.'' E.M. CFO Capgemini'
 description: >-
