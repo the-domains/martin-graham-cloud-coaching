@@ -1,17 +1,7 @@
+name: Martin Graham Cloud Coaching
+favicon: null
 layout_spectrum: 0.29639023705385625
 typography_spectrum: 0.8744267567526549
-color:
-  brandStrength: 0.87712356983684
-  lightness: 0.73167510679923
-  saturation: 0.327038764487952
-  rhythmicContrast: 0.4866976626217365
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-name: Martin Graham Cloud Coaching
 navigation:
   - name: Martin Graham on Facebook
     url: 'https://www.facebook.com/martingrahamcloudcoachingltd/?ref=bookmarks'
@@ -26,3 +16,27 @@ title: '''A key actor in our global integration process.'' E.M. CFO Capgemini'
 description: >-
   'proximity with the team, originality of his approach, highly valuable to me.'
   A.M. CIO Michelin
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#006697'
+    - '#a7cbfd'
+    - '#cc0001'
+    - '#be6566'
+  brandStrength: 0.87712356983684
+  lightness: 0.73167510679923
+  saturation: 0.327038764487952
+  rhythmicContrast: 0.4866976626217365
+purpose: []
