@@ -1,7 +1,18 @@
+layout_spectrum: 0.9454304955434054
+typography_spectrum: 0.0845328604336828
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.12744343257509172
+  lightness: 0.7918230376672
+  saturation: 0.35281059332191944
+  rhythmicContrast: 0.17411034437827766
 name: Martin Graham Cloud Coaching
 favicon: null
-layout_spectrum: 0.29639023705385625
-typography_spectrum: 0.8744267567526549
 navigation:
   - name: Martin Graham on Facebook
     url: 'https://www.facebook.com/martingrahamcloudcoachingltd/?ref=bookmarks'
@@ -28,15 +39,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#006697'
-    - '#a7cbfd'
-    - '#cc0001'
-    - '#be6566'
-  brandStrength: 0.87712356983684
-  lightness: 0.73167510679923
-  saturation: 0.327038764487952
-  rhythmicContrast: 0.4866976626217365
 purpose: []
