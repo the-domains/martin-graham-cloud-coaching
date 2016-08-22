@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '''a key actor for our global integration process''. E.M. CFO. Capgemini'
-datePublished: '2016-08-22T17:05:18.737Z'
-dateModified: '2016-08-22T17:05:10.635Z'
+datePublished: '2016-08-22T18:07:26.434Z'
+dateModified: '2016-08-22T18:07:25.922Z'
 title: ''
 author: []
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+publisher: {}
 sourcePath: _posts/2016-08-22-a-key-actor-for-our-global-integration-process-em-cfo.md
+starred: false
 url: a-key-actor-for-our-global-integration-process-em-cfo/index.html
 _type: Article
 
