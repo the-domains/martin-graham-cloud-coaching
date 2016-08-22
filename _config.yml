@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Martin Graham Cloud Coaching Introduction
+    id: 7cad2223-a566-4a1b-ab5f-515ed5e7cf20
+    type: content
 favicon: null
 title: '''A key actor in our global integration process.'' E.M. CFO Capgemini'
 description: >-
