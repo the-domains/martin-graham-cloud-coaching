@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Martin Graham on Twitter
-    url: 'https://twitter.com/martinbabel'
-    type: external
   - name: Martin Graham on LinkedIn
     url: 'https://www.linkedin.com/in/martingraham'
     type: external
