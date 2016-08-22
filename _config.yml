@@ -1,16 +1,16 @@
-typography_spectrum: 0.9872219827957451
+layout_spectrum: 0.29639023705385625
+typography_spectrum: 0.8744267567526549
 color:
-  brandStrength: 0.6745930863544345
-  lightness: 0.14849838824011385
-  saturation: 0.33906747843138874
-  rhythmicContrast: 0.3927536644041538
+  brandStrength: 0.87712356983684
+  lightness: 0.73167510679923
+  saturation: 0.327038764487952
+  rhythmicContrast: 0.4866976626217365
   brandColors:
-    - '#FFFFFF'
-    - '#006697'
-    - '#A7CBFD'
-    - '#CC0001'
-    - '#A90F0D'
-layout_spectrum: 0.8061556366737932
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Martin Graham Cloud Coaching
 navigation:
   - name: Martin Graham on Facebook
