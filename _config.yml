@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Martin Graham on LinkedIn
-    url: 'https://www.linkedin.com/in/martingraham'
-    type: external
 favicon: null
 title: '''A key actor in our global integration process.'' E.M. CFO Capgemini'
 description: >-
