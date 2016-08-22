@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-22T18:03:57.713Z'
+datePublished: '2016-08-22T18:04:01.745Z'
 author: []
 via: {}
-dateModified: '2016-08-22T18:03:56.724Z'
+dateModified: '2016-08-22T18:04:01.427Z'
 title: ''
 publisher:
   name: Martin Graham Cloud Coaching
@@ -10,9 +10,9 @@ description: >-
   Knowing the core quality I am using and its counterbalancing challenge,
   combining these two together help me to avoid reacting badly to 'my allergy'
   or falling into the trap of my 'excess'.
-starred: false
 sourcePath: >-
   _posts/2016-08-22-knowing-the-core-quality-i-am-using-and-its-counterbalancing.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
