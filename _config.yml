@@ -1,4 +1,3 @@
-layout_spectrum: 0.8061556366737932
 typography_spectrum: 0.9872219827957451
 color:
   brandStrength: 0.6745930863544345
@@ -6,9 +5,11 @@ color:
   saturation: 0.33906747843138874
   rhythmicContrast: 0.3927536644041538
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#006697'
+    - '#A7CBFD'
+    - '#CC0001'
+    - '#A90F0D'
+layout_spectrum: 0.8061556366737932
 name: Martin Graham Cloud Coaching
+description: '''A key actor in our global integration process.'''
