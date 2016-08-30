@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-28T14:35:14.964Z'
+datePublished: '2016-08-28T14:37:31.248Z'
 sourcePath: >-
   _posts/2016-08-24-working-on-your-talents-contribution-to-the-business-cultu.md
 inFeed: true
 author:
   - name: Martin Graham
 via: {}
-dateModified: '2016-08-28T14:35:09.175Z'
+dateModified: '2016-08-28T14:37:10.232Z'
 title: The four key elements essential to successful international leadership
 publisher:
   name: Martin Graham
@@ -24,4 +24,4 @@ _type: Blurb
 
 Working on your talents, contribution to the business, cultural agility and global communications combine together to construct international professional leaders.  
 To have a personal demonstration call Martin, at Martin Graham Cloud Coaching on _☎_ 00 33 (0)6 61 87 25 50 or leave a message and contact details at martin@martingraham.com (in English and French).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/528534b2-bcc5-4bdd-80f4-14407dc455a9.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80978e21-fbfb-4f60-adc4-417a2a289154.png)
