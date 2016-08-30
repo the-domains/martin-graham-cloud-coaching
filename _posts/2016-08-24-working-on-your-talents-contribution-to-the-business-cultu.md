@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-28T14:37:31.248Z'
+datePublished: '2016-08-28T14:37:39.277Z'
 sourcePath: >-
   _posts/2016-08-24-working-on-your-talents-contribution-to-the-business-cultu.md
 inFeed: true
 author:
   - name: Martin Graham
 via: {}
-dateModified: '2016-08-28T14:37:10.232Z'
+dateModified: '2016-08-28T14:37:32.338Z'
 title: The four key elements essential to successful international leadership
 publisher:
   name: Martin Graham
