@@ -1,4 +1,3 @@
-layout_spectrum: 0.014962383545935154
 typography_spectrum: 0.585052611771971
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.014962383545935154
 analytics:
   google: null
   facebook: null
@@ -38,9 +38,6 @@ navigation:
     type: content
   - name: Four key elements essential to successful international leadership
     id: a1de0ee9-5a13-4f97-b23e-5463bcaacf46
-    type: content
-  - name: Contact Martin Graham
-    id: 246bca23-7bca-4f9c-899b-b9441dfe6a42
     type: content
 favicon: null
 title: '''A key actor in our global integration process.'' E.M. CFO Capgemini'
