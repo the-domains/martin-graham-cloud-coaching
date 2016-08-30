@@ -1,4 +1,3 @@
-layout_spectrum: 0.061563356313854456
 typography_spectrum: 0.0846304337028414
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.061563356313854456
 analytics:
   google: null
   facebook: null
@@ -37,6 +37,9 @@ navigation:
       Introductory offer to experience coaching as a learning and management
       tool.
     id: b92cb68c-9f35-4aa2-addb-0778aeb0d2bc
+    type: content
+  - name: Four key elements essential to successful international leadership
+    id: a1de0ee9-5a13-4f97-b23e-5463bcaacf46
     type: content
 favicon: null
 title: '''A key actor in our global integration process.'' E.M. CFO Capgemini'
