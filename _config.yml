@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Martin Graham
+  email: martin@martingraham.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bf31504-ca90-4a55-b41c-60a3840ede04.jpg
 name: Martin Graham Cloud Coaching
 cta:
   domain: null
