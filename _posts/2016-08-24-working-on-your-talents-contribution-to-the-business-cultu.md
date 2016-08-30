@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T14:29:34.276Z'
+datePublished: '2016-08-28T14:30:24.183Z'
 sourcePath: >-
   _posts/2016-08-24-working-on-your-talents-contribution-to-the-business-cultu.md
 author:
   - name: Martin Graham
 via: {}
-dateModified: '2016-08-28T14:29:28.658Z'
+dateModified: '2016-08-28T14:30:18.071Z'
 title: International Leadership
 publisher:
   name: Martin Graham
