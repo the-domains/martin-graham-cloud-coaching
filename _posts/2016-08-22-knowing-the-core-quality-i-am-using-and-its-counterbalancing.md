@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T18:09:37.524Z'
+datePublished: '2016-08-28T20:51:14.903Z'
 sourcePath: >-
   _posts/2016-08-22-knowing-the-core-quality-i-am-using-and-its-counterbalancing.md
 author: []
 via: {}
-dateModified: '2016-08-22T18:09:36.945Z'
+dateModified: '2016-08-28T20:51:14.027Z'
 title: ''
 publisher:
   name: Martin Graham Cloud Coaching
